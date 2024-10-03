@@ -1,0 +1,42 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+
+# Visual Studio Code
+.vscode/
+
+# DotNet
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.jfm/
+*.jfm.mdb
+*.jfm.pdb
+*.jfm.csproj.user
+*.jfm.user
+
+# NuGet Packages
+**/packages/*
+!.nuget/packages/
+**/*.nupkg
+
+# Temp files
+*.tmp
+*.temp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Other
+obj/
+bin/
